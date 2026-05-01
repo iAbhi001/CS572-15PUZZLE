@@ -138,9 +138,7 @@ Expected: 34 tests collected, all passing.
 
 ## Building the 8-Tile Pattern Database (Gilbreth Cluster)
 
-The 8-tile PDB requires ~4 GB RAM and ~6 hours of compute. It is built as a SLURM
-batch job on Purdue's Gilbreth cluster:
-
+The 8-tile PDB requires ~4 GB RAM and ~6 hours of compute.
 ```bash
 # From the Gilbreth login node, with this repo cloned:
 sbatch scripts/build_pdb_gilbreth.sh
