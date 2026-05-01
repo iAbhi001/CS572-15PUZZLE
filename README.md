@@ -136,7 +136,7 @@ Expected: 34 tests collected, all passing.
 
 ---
 
-## Building the 8-Tile Pattern Database (Gilbreth Cluster)
+## Building the 8-Tile Pattern Database 
 
 The 8-tile PDB requires ~4 GB RAM and ~6 hours of compute.
 ```bash
