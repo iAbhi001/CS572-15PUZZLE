@@ -91,7 +91,7 @@ python experiments.py --heuristic pdb --pdb_path results/pdb_6tile.pkl \
     --seed 42 --output results/preliminary/h3_pdb6_depth40_50.csv
 ```
 
-For the 8-tile PDB (requires the Gilbreth cluster — see below), use `--tiles 1 2 3 4 5 6 7 8`.
+For the 8-tile PDB , use `--tiles 1 2 3 4 5 6 7 8`.
 
 ### Experiment 3: Weighted A*
 
